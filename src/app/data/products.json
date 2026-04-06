@@ -1,0 +1,184 @@
+{
+  "motorcycles": [
+    {
+      "id": 1,
+      "model_name": "CBR600RR",
+      "country": "Japan",
+      "brand": "Honda",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/honda.com",
+      "model_image_url": "https://www.motortrend.com/uploads/2023/09/2023-Honda-CBR600RR.jpg"
+    },
+    {
+      "id": 2,
+      "model_name": "Africa Twin",
+      "country": "Japan",
+      "brand": "Honda",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/honda.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2022/09/2023-Honda-Africa-Twin.jpg"
+    },
+    {
+      "id": 3,
+      "model_name": "MT-07",
+      "country": "Japan",
+      "brand": "Yamaha",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/yamaha-motor.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Yamaha-MT-07.jpg"
+    },
+    {
+      "id": 4,
+      "model_name": "YZF-R1",
+      "country": "Japan",
+      "brand": "Yamaha",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/yamaha-motor.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Yamaha-YZF-R1.jpg"
+    },
+    {
+      "id": 5,
+      "model_name": "Ninja ZX-10R",
+      "country": "Japan",
+      "brand": "Kawasaki",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/kawasaki.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Kawasaki-Ninja-ZX-10R.jpg"
+    },
+    {
+      "id": 6,
+      "model_name": "Z900",
+      "country": "Japan",
+      "brand": "Kawasaki",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/kawasaki.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Kawasaki-Z900.jpg"
+    },
+    {
+      "id": 7,
+      "model_name": "GSX-R750",
+      "country": "Japan",
+      "brand": "Suzuki",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/suzuki.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Suzuki-GSX-R750.jpg"
+    },
+    {
+      "id": 8,
+      "model_name": "Hayabusa",
+      "country": "Japan",
+      "brand": "Suzuki",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/suzuki.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2022/09/2023-Suzuki-Hayabusa.jpg"
+    },
+    {
+      "id": 9,
+      "model_name": "Fat Boy",
+      "country": "USA",
+      "brand": "Harley-Davidson",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/harley-davidson.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Harley-Davidson-Fat-Boy.jpg"
+    },
+    {
+      "id": 10,
+      "model_name": "Street Glide",
+      "country": "USA",
+      "brand": "Harley-Davidson",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/harley-davidson.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Harley-Davidson-Street-Glide.jpg"
+    },
+    {
+      "id": 11,
+      "model_name": "R 1250 GS",
+      "country": "Germany",
+      "brand": "BMW Motorrad",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/bmw-motorrad.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-BMW-R-1250-GS.jpg"
+    },
+    {
+      "id": 12,
+      "model_name": "S 1000 RR",
+      "country": "Germany",
+      "brand": "BMW Motorrad",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/bmw-motorrad.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-BMW-S-1000-RR.jpg"
+    },
+    {
+      "id": 13,
+      "model_name": "Panigale V4",
+      "country": "Italy",
+      "brand": "Ducati",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/ducati.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Ducati-Panigale-V4.jpg"
+    },
+    {
+      "id": 14,
+      "model_name": "Monster",
+      "country": "Italy",
+      "brand": "Ducati",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/ducati.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Ducati-Monster.jpg"
+    },
+    {
+      "id": 15,
+      "model_name": "Duke 390",
+      "country": "Austria",
+      "brand": "KTM",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/ktm.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-KTM-Duke-390.jpg"
+    },
+    {
+      "id": 16,
+      "model_name": "1290 Super Duke R",
+      "country": "Austria",
+      "brand": "KTM",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/ktm.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-KTM-1290-Super-Duke-R.jpg"
+    },
+    {
+      "id": 17,
+      "model_name": "Bonneville T120",
+      "country": "UK",
+      "brand": "Triumph",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/triumph.co.uk",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Triumph-Bonneville-T120.jpg"
+    },
+    {
+      "id": 18,
+      "model_name": "Tiger 900",
+      "country": "UK",
+      "brand": "Triumph",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/triumph.co.uk",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Triumph-Tiger-900.jpg"
+    },
+    {
+      "id": 19,
+      "model_name": "Himalayan",
+      "country": "India",
+      "brand": "Royal Enfield",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/royalenfield.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Royal-Enfield-Himalayan.jpg"
+    },
+    {
+      "id": 20,
+      "model_name": "Interceptor 650",
+      "country": "India",
+      "brand": "Royal Enfield",
+      "year": 2023,
+      "brand_logo_url": "https://logo.clearbit.com/royalenfield.com",
+      "model_image_url": "https://www.motorcycle.com/wp-content/uploads/2023/01/2023-Royal-Enfield-Interceptor-650.jpg"
+    }
+  ]
+}
