@@ -1,3 +1,5 @@
+import { Card } from "@/components/ui/card";
+
 export default function ProductCard({
   image,
   model,
@@ -6,14 +8,14 @@ export default function ProductCard({
   year,
 }: Props) {
   return (
-    <div className="flex flex-col">
+    <Card className="flex flex-col">
       <div>
         <img src={image} />
       </div>
       <span>{model}</span>
       <div>{brand}</div>
       <div>{year}</div>
-    </div>
+    </Card>
   );
 }
 
