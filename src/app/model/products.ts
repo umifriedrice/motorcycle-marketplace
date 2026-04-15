@@ -6,4 +6,18 @@ export type MotorcycleProduct = {
   year: number;
   brand_logo_url: string;
   model_image_url: string;
+  price: number;
+  currency: string;
+  category: string;
+  engine_cc: number;
+  horsepower: number;
+  mileage_km: number;
+  condition: string;
+  tag: string;
+  is_featured: boolean;
+  is_favorited: boolean;
+  rating: number;
+  review_count: number;
+  color: string;
+  description: string;
 };
